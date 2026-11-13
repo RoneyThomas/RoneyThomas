@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @RoneyThomas
 - 👀 I’m interested in iOS, Android and web devlopment
-- 🌱 I’m currently doing react, ruby bootcamp
 - 📫 How to reach me: roney@roney.me
